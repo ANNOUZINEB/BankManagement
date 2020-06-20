@@ -97,12 +97,12 @@ void withdraw(double amount) {
 		   System.out.println("******************************");
 		   break; 
 	  default:
-			 System.out.println("invalid option !!!!!!");
+			 System.out.println("invalid option please try again !!!!!!");
 			 break;
 	   } 
 	   }while (option != 'E');
      
-	   System.out.println("Thanks for using our services ");
+	   System.out.println("Thanks for using our services...");
 	   
 	   }
 }
